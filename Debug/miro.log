@@ -1,0 +1,57 @@
+﻿빌드 시작: 2016-03-29 오후 5:19:24
+     1>2 노드의 "C:\Users\QATEAM-3\Desktop\miro\miro.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 ".\Debug\miro.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         D:\cover\cover-agent\wrapper\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt miro_fun.c miro_fun2.c Q_S.c QS_fun.c
+         [DEBUG] : config found: - D:\cover\cover-agent/exclusion.cfg
+         [DEBUG] : exclusion: - #exclude file name
+         coverage compile: miro_fun.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt /I . /P miro_fun.c 
+         miro_fun.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\QATEAM-3\AppData\Local\Temp\d97c9475-76ea-4982-9b54-cb12e0539bc9.c /Fo".\Debug\\miro_fun.obj" 
+         d97c9475-76ea-4982-9b54-cb12e0539bc9.c
+         coverage compile: miro_fun2.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt /I . /P miro_fun2.c 
+         miro_fun2.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\QATEAM-3\AppData\Local\Temp\dfa3f648-2a8a-47f1-a386-cb20e9117c87.c /Fo".\Debug\\miro_fun2.obj" 
+         dfa3f648-2a8a-47f1-a386-cb20e9117c87.c
+         coverage compile: Q_S.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt /I . /P Q_S.c 
+         Q_S.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\QATEAM-3\AppData\Local\Temp\889c1e28-c966-4b9f-80d4-5f33052e8456.c /Fo".\Debug\\Q_S.obj" 
+         889c1e28-c966-4b9f-80d4-5f33052e8456.c
+         coverage compile: QS_fun.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt /I . /P QS_fun.c 
+         QS_fun.c
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\QATEAM-3\AppData\Local\Temp\67f1a91c-8cb9-4ac3-85b9-857651e90aa1.c /Fo".\Debug\\QS_fun.obj" 
+         67f1a91c-8cb9-4ac3-85b9-857651e90aa1.c
+       Link:
+         D:\cover\cover-agent\wrapper\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\miro.exe" /INCREMENTAL:NO /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\miro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\QATEAM-3\Desktop\miro\Debug\miro.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\miro.lib" /MACHINE:X86 .\Debug\miro_fun.obj
+         .\Debug\miro_fun2.obj
+         .\Debug\Q_S.obj
+         .\Debug\QS_fun.obj
+         [DEBUG] : config found: - D:\cover\cover-agent/exclusion.cfg
+         [DEBUG] : exclusion: - #exclude file name
+         coverage linking: .\Debug\miro.exe
+         "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe" /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fd".\Debug\vc100.pdb" /Gd /analyze- /errorReport:prompt C:\Users\QATEAM-3\Desktop\miro\cstm_765d1b3b.cpp /Fo"cstm_765d1b3b.obj" 
+         cstm_765d1b3b.cpp
+         "c:\program files (x86)\microsoft visual studio 10.0\vc\bin\link.exe" cstm_765d1b3b.obj /ERRORREPORT:PROMPT /OUT:".\Debug\miro.exe" /INCREMENTAL:NO /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\miro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\QATEAM-3\Desktop\miro\Debug\miro.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\miro.lib" /MACHINE:X86 .\Debug\miro_fun.obj .\Debug\miro_fun2.obj .\Debug\Q_S.obj .\Debug\QS_fun.obj D:\cover\cover-agent\lib\vs2010\x86\libcstmcl.lib Ws2_32.lib 
+     1>cstm_765d1b3b.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/INCREMENTAL:NO' 사양으로 인해 무시됩니다.
+         libcstmcl.lib(libcstm.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+     1>cstm_765d1b3b.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/INCREMENTAL:NO' 사양으로 인해 무시됩니다.
+            .\Debug\miro.lib 라이브러리 및 .\Debug\miro.exp 개체를 생성하고 있습니다.
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+     1>libcstmcl.lib(libcstm.obj) : warning LNK4204: 'C:\Users\QATEAM-3\Desktop\miro\Debug\vc100.pdb'에 참조 모듈에 대한 디버깅 정보가 없습니다. 디버깅 정보가 없는 것처럼 개체를 링크합니다.
+         miro.vcxproj -> C:\Users\QATEAM-3\Desktop\miro\.\Debug\miro.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\Debug\miro.exe;#1" /manifest .\Debug\miro.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ".\Debug\miro.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         ".\Debug\miro.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\QATEAM-3\Desktop\miro\miro.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.11
